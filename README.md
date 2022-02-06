@@ -10,7 +10,7 @@ This project is not currently being maintained and has not been tested with the 
 
 1. A Mac or computer with access to iMessage
 1. Python 3
-1. A clone of the [ReactTerminal repo](https://github.com/WillHord/iMessageBot) on your local machine
+1. A clone of the [iMessage repo](https://github.com/WillHord/iMessageBot) on your local machine
 
 ### Installation
 
